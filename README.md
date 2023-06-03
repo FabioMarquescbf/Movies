@@ -1,2 +1,2 @@
 # Movies
-Filmes..  - API NodeJS / Prisma
+Aluguel de Filmes..  - API NodeJS / Prisma
